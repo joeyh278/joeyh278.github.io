@@ -7,7 +7,7 @@ permalink: /contact/
 
 Contact me here!
 
-- [Email](joey.huang@drexel.edu)
+- [Email](mailto:joey.huang@drexel.edu)
 - [GitHub](https://github.com/joeyh278)
 - [LinkedIn](https://www.linkedin.com/in/joey-huang-2b090119b/)
 
