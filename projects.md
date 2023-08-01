@@ -26,7 +26,7 @@ See the working demo [here!](https://www.figma.com/proto/ytOFlVpjRdHGttjJ4q6JgJ/
 
 # Ceres
 
-Ceres is a website dedicated to raising awarness and tracking the Austrailian wildfires!
+Ceres is a website dedicated to raising awareness and tracking the Austrailian wildfires!
 
 I was both the product owner and full-stack developer for this freshman design project.
 
